@@ -1,4 +1,4 @@
-#ProgressBar
+# ProgressBar
 ===========
 
 a nice progressbar style
